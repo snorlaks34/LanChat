@@ -1,4 +1,4 @@
-# 💬 Ryszczat – Local LAN Chat App in PyQt6
+# 💬 LanChat – Local LAN Chat App in PyQt6
 
 **LanChat** is a simple graphical chat application built in Python using PyQt6. It allows users to register, log in, and exchange messages through a local interface.
 
