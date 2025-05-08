@@ -27,10 +27,12 @@ This application **stores data on a network-attached LAN disk**. All user accoun
 
 ## 📝 to-do list:
 
--Transfer to mysql server
--Do a better gui 
--Repair bugs 🐛
+-Transfer to mysql server.
+-Use encryption to secure password in database.
+-Improve the GUI.
+-Fix bugs 🐛.
 -Add profile picture.
--Add some settings like: change motive, password, nick, delete account etc.
--Do more readable code
--Add comments;
+-Add some settings like: change theme, password, nickname, delete account etc.
+-Make the code more readable.
+-Add comments.
+
