@@ -33,6 +33,6 @@ This application **stores data on a network-attached LAN disk**. All user accoun
 -Fix bugs 🐛.
 -Add profile picture.
 -Add some settings like: change theme, password, nickname, delete account etc.
--Make the code more readable.
--Add comments.
+✅-Make the code more readable.
+✅-Add comments.
 
